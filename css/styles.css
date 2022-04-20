@@ -37,6 +37,12 @@ a:hover {
     background-color: #E8C07D;
 }
 
+.esasoy {
+    margin: 0;
+    position: relative;
+    bottom: 100px;
+}
+
 .middle-container {
     margin: 100px 50px;
 }
@@ -103,7 +109,8 @@ a:hover {
 #embudo {
     width: 13%;
     position: relative;
-    right: 40%;
+    right: 20%;
+    margin: 0;
 }
 
 #embudo:hover {
@@ -114,12 +121,24 @@ a:hover {
     width: 20%;
     position: relative;
     left: 45%;
-    bottom: 20px;
+    bottom: 80px;
     margin: 0;
 }
 
 #gafasdepie:hover {
     transform: rotate(-30deg);
+}
+
+#gafassuelo {
+    width: 35%;
+    position: relative;
+    right: 35%;
+    top: 70%;
+    margin: 0;
+}
+
+#gafassuelo:hover {
+    transform: rotate(-20deg);
 }
 
 #cocina1 {
