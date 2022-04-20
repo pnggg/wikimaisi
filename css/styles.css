@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Crafty Girls', cursive;
+    font-size: 10rem;
+    color: #614124;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #614124;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #614124;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #CC704B;
+}
+
+a:hover {
+    color: #E8C07D;
+}
+
+.titulo {
+    padding: 100px;
+    background-color: #E8C07D;
+}
+
+.middle-container {
+    margin: 100px 50px;
+}
+
+.aficiones {
+    text-align: left;
+}
+
+.maiconsejo {
+    text-align: right;
+}
+
+.fanart {
+    text-align: left;
+}
+
+.titulo-pagina {
+    background-color: #E8C07D;
+    margin: 0;
+    padding: 100px;
+    font-family: 'Crafty Girls', cursive;
+    font-size: 3rem;
+}
+
+.bottom-container {
+    background-color: #614124;
+    padding: 40px 0 30px;
+}
+
+.footer-link {
+    margin: 10px 20px;
+}
+
+.copyright {
+    margin-top: 40px;
+    color: #E8C07D;
+    font-size: 0.75rem;
+}
+
+.maimascarilla {
+    width: 30%;
+}
+
+.dibujococina {
+    width: 30%;
+    margin: 20px;
+}
+
+.mainevera {
+    width: 50%;
+    margin: 20px;
+}
+
+.maiydani {
+    width: 50%;
+    margin: 20px;
+}
+
+.noxfavor {
+    width: 30%;
+    margin: 20px;
+}
+
+#embudo {
+    width: 13%;
+    position: relative;
+    right: 40%;
+}
+
+#embudo:hover {
+    transform: rotate(30deg);
+}
+
+#gafasdepie {
+    width: 20%;
+    position: relative;
+    left: 45%;
+    bottom: 20px;
+    margin: 0;
+}
+
+#gafasdepie:hover {
+    transform: rotate(-30deg);
+}
+
+#cocina1 {
+    margin-right: 5px;
+}
+
+#cocina2 {
+    margin-left: 5px;
+}
