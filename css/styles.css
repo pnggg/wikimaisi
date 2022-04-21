@@ -60,11 +60,14 @@ a:hover {
 }
 
 .titulo-pagina {
+    font-family: 'Crafty Girls', cursive;
+    font-size: 3rem;
+}
+
+.top-container-subpag {
     background-color: #E8C07D;
     margin: 0;
     padding: 100px;
-    font-family: 'Crafty Girls', cursive;
-    font-size: 3rem;
 }
 
 .bottom-container {
@@ -80,6 +83,16 @@ a:hover {
     margin-top: 40px;
     color: #E8C07D;
     font-size: 0.75rem;
+}
+
+.af-izq {
+    text-align: left;
+    margin: 100px 50px;
+}
+
+.af-dch {
+    text-align: right;
+    margin: 100px 50px;
 }
 
 .maimascarilla {
