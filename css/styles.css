@@ -32,8 +32,16 @@ a:hover {
     color: #E8C07D;
 }
 
+hr {
+    margin: 100px auto;
+    border-style: none;
+    border-top: 6px dotted #9FC088;
+    width: 5%;
+}
+
 .titulo {
     padding: 100px;
+    margin: 0;
     background-color: #E8C07D;
 }
 
@@ -72,6 +80,7 @@ a:hover {
 
 .bottom-container {
     background-color: #614124;
+    margin-top: 20px;
     padding: 40px 0 30px;
 }
 
@@ -130,10 +139,33 @@ a:hover {
     transform: rotate(30deg);
 }
 
+#banana {
+    width: 13%;
+    position: relative;
+    top: 80px;
+    left: 35%;
+    margin: 0;
+}
+
+#banana:hover {
+    transform: rotate(25deg);
+}
+
+#susto {
+    width: 13%;
+    position: relative;
+    top: 30px;
+    margin: 0;
+}
+
+#susto:hover {
+    transform: rotate(-40deg);
+}
+
 #gafasdepie {
     width: 20%;
     position: relative;
-    left: 45%;
+    left: 40%;
     bottom: 80px;
     margin: 0;
 }
